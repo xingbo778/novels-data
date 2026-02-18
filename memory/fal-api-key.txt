@@ -1,0 +1,2 @@
+# Fal.ai API Key (只读，不要分享)
+FAL_KEY=6bfa23ed-14f7-47aa-ad11-a90577eee3a2:03b732759c2ed675ab42dd601d346e42

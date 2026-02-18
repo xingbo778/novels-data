@@ -1,0 +1,50 @@
+{
+  "last_sync": "2026-02-17T05:01:10.994986",
+  "tasks": [
+    {
+      "task": "小红书内容发布",
+      "status": "in_progress",
+      "time": "2026-02-17T04:56:10.992762"
+    },
+    {
+      "task": "GitHub Trending 监控",
+      "status": "pending",
+      "time": "2026-02-17T04:56:10.992804"
+    },
+    {
+      "task": "技能文档优化",
+      "status": "completed",
+      "time": "2026-02-17T04:56:10.992808"
+    },
+    {
+      "task": "内容生成器个性化",
+      "status": "completed",
+      "time": "2026-02-17T04:56:10.992811"
+    },
+    {
+      "task": "趋势分析脚本",
+      "status": "pending",
+      "time": "2026-02-17T04:56:10.992814"
+    }
+  ],
+  "completed": [
+    {
+      "task": "技能文档优化",
+      "status": "completed",
+      "time": "2026-02-17T04:56:10.992808"
+    },
+    {
+      "task": "内容生成器个性化",
+      "status": "completed",
+      "time": "2026-02-17T04:56:10.992811"
+    }
+  ],
+  "in_progress": [
+    {
+      "task": "小红书内容发布",
+      "status": "in_progress",
+      "time": "2026-02-17T04:56:10.992762"
+    }
+  ],
+  "blocked": []
+}
