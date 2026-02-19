@@ -1,0 +1,30 @@
+{
+  "title": "潮起之爱",
+  "url": "https://www.alicesw.com/novel/46750.html",
+  "chapters": [
+    {
+      "index": 1,
+      "title": "第3章",
+      "url": "https://www.alicesw.com/book/48140/ebe7de2d10328.html",
+      "path": "novel_scraper/out/潮起之爱/001_第3章.txt"
+    },
+    {
+      "index": 2,
+      "title": "开始阅读",
+      "url": "https://www.alicesw.com/book/48140/35c37f22c1d5e.html",
+      "path": "novel_scraper/out/潮起之爱/002_开始阅读.txt"
+    },
+    {
+      "index": 3,
+      "title": "第2章",
+      "url": "https://www.alicesw.com/book/48140/d353a7a0616b4.html",
+      "path": "novel_scraper/out/潮起之爱/003_第2章.txt"
+    },
+    {
+      "index": 4,
+      "title": "第1章",
+      "url": "https://www.alicesw.com/book/48140/0f3c30e51d2ab.html",
+      "path": "novel_scraper/out/潮起之爱/004_第1章.txt"
+    }
+  ]
+}
